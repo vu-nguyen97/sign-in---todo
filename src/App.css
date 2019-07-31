@@ -1,0 +1,18 @@
+.item{
+    list-style-type: none;
+    width: 400px;
+    margin-left: 100px; 
+}
+input{
+    width: 150px;
+    position: relative;
+    margin-right: 100px;
+}
+button{
+    margin-left: 50px;
+}
+center{
+    display: flex;
+    justify-items: center;
+    align-items: center;
+}
